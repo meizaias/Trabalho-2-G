@@ -1,8 +1,10 @@
 .cabeçalho {
     background-color: #383D58;
     color: white;
-     display: flex; }
- .imagemcabeçalho{width: 30%;}
-
-    .
+     display: flex; 
+    justify-content: space-around;}
+ .imagemcabeçalho{width: 20%;}
+  
+ .listacabeçalho{display: inline-block;}
+    
  
